@@ -1,0 +1,1345 @@
+# depslib dependency file v1.0
+1472856920 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\main.c
+	<stdio.h>
+	"prototype.h"
+	"ajouter.h"
+	"rechercher.h"
+	"modifier.h"
+	"supprimer.h"
+	"afficher.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\begin_code.h
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\close_code.h
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394253592 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376159942 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160142 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1471702365 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\prototype.c
+	"prototype.h"
+
+1471702365 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\prototype.h
+
+1471723936 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\prototype.h
+
+1472813662 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\prototype.c
+	<stdio.h>
+	"prototype.h"
+	"ZoneText.h"
+	<SDL2/SDL.h>
+	"textedition.h"
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472815176 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\zonetext.c
+	"ZoneText.h"
+	"prototype.h"
+	"textedition.h"
+
+1472816430 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\zonetext.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1420184076 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\textedition.c
+	"textedition.h"
+
+1472721913 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\textedition.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<wchar.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"ttf_secure.h"
+
+1472121437 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\ttf_secure.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1420184076 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\ttf_secure.c
+	"ttf_secure.h"
+
+1475307949 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\afficher.c
+	"afficher.h"
+	"function.h"
+	"textedition.h"
+	"affich.h"
+	"liste.h"
+
+1473613054 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\afficher.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472818905 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\ajouter.c
+	"ajouter.h"
+	"function.h"
+	"textedition.h"
+
+1472818905 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\ajouter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472818905 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\rechercher.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472819720 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\modifier.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472818905 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\supprimer.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1475307621 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\function.h
+	"textedition.h"
+
+1475312907 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\function.c
+	"function.h"
+	"textedition.h"
+	<SDL2/SDL.h>
+	"textedition.h"
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1475314290 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\modifier.c
+	"function.h"
+	"modifier.h"
+	"textedition.h"
+
+1474202071 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\rechercher.c
+	"rechercher.h"
+	"function.h"
+	"textedition.h"
+
+1475314027 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\supprimer.c
+	"supprimer.h"
+	"function.h"
+	"textedition.h"
+
+1473613371 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\affich.h
+
+1473711999 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\affich.c
+	"textedition.h"
+	"affich.h"
+
+1474798839 source:c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\src\liste.c
+	"liste.h"
+
+1474798839 c:\users\user\desktop\developper sdl2.0\projet_sdl2_0_3_sdl2_image_sdl2_ttf_windows_codeblocks\include\liste.h
+	<stdio.h>
+	<stdlib.h>
+
+1473711999 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\affich.c
+	"textedition.h"
+	"affich.h"
+
+1476052162 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\textedition.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<wchar.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"ttf_secure.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\begin_code.h
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\close_code.h
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376159942 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476052172 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\ttf_secure.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1376160142 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1473613371 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\affich.h
+
+1476005898 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\afficher.c
+	"afficher.h"
+	"function.h"
+	"textedition.h"
+	"affich.h"
+	"liste.h"
+
+1473613054 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\afficher.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1475307621 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\function.h
+	"textedition.h"
+
+1474798839 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\liste.h
+	<stdio.h>
+	<stdlib.h>
+
+1472818905 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\ajouter.c
+	"ajouter.h"
+	"function.h"
+	"textedition.h"
+
+1472818905 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\ajouter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1476005898 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\function.c
+	"function.h"
+	"textedition.h"
+	<SDL2/SDL.h>
+	"textedition.h"
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1474798839 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\liste.c
+	"liste.h"
+
+1472856920 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\main.c
+	<stdio.h>
+	"prototype.h"
+	"ajouter.h"
+	"rechercher.h"
+	"modifier.h"
+	"supprimer.h"
+	"afficher.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1471723936 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\prototype.h
+
+1472818905 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\rechercher.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472819720 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\modifier.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472818905 c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\include\supprimer.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1476052044 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\modifier.c
+	"function.h"
+	"modifier.h"
+	"textedition.h"
+
+1476005898 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\rechercher.c
+	"rechercher.h"
+	"function.h"
+	"textedition.h"
+
+1476051959 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\supprimer.c
+	"supprimer.h"
+	"function.h"
+	"textedition.h"
+
+1476052120 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\textedition.c
+	"textedition.h"
+
+1476052142 source:c:\users\user\desktop\projet gestion du liste d etudiants\projet graphique gestion des etudiants\src\ttf_secure.c
+	"ttf_secure.h"
+
+1473711998 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\affich.c
+	"textedition.h"
+	"affich.h"
+
+1476052162 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\textedition.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<wchar.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"ttf_secure.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\begin_code.h
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\close_code.h
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394257192 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376159942 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476052172 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\ttf_secure.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+
+1376160142 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1473613370 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\affich.h
+
+1476005898 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\afficher.c
+	"afficher.h"
+	"function.h"
+	"textedition.h"
+	"affich.h"
+	"liste.h"
+
+1473613054 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\afficher.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1475307620 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\function.h
+	"textedition.h"
+
+1474798838 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\liste.h
+	<stdio.h>
+	<stdlib.h>
+
+1472818904 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\ajouter.c
+	"ajouter.h"
+	"function.h"
+	"textedition.h"
+
+1472818904 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\ajouter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1476005898 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\function.c
+	"function.h"
+	"textedition.h"
+	<SDL2/SDL.h>
+	"textedition.h"
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1474798838 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\liste.c
+	"liste.h"
+
+1472856920 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\main.c
+	<stdio.h>
+	"prototype.h"
+	"ajouter.h"
+	"rechercher.h"
+	"modifier.h"
+	"supprimer.h"
+	"afficher.h"
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1471723936 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\prototype.h
+
+1472818904 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\rechercher.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472819720 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\modifier.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1472818904 c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\include\supprimer.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1476052044 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\modifier.c
+	"function.h"
+	"modifier.h"
+	"textedition.h"
+
+1476005898 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\rechercher.c
+	"rechercher.h"
+	"function.h"
+	"textedition.h"
+
+1476051958 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\supprimer.c
+	"supprimer.h"
+	"function.h"
+	"textedition.h"
+
+1476052120 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\textedition.c
+	"textedition.h"
+
+1476052142 source:c:\users\user\desktop\projet graphique gestion des etudiants(code source + executable )\projet gestion des etudiants(code source)\src\ttf_secure.c
+	"ttf_secure.h"
+
